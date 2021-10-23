@@ -1,7 +1,7 @@
 /* install nodejs
 https://nodejs.org/en/
 
-use "npm install discord.js" first
+open cmd, type "npm install discord.js"
 done
 */
 
