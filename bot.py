@@ -20,4 +20,7 @@ async def on_message(message):
 
     if message.content.startswith('$hello'):
         await message.channel.send('Hello!')
+        
+# Place your bot token in 'TOKEN'
+# Make sure keep your bot token is safe!
 client.run('TOKEN')
